@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
         } catch (error) {
             console.error(error);
-            currentValue = "ERROR"
+            currentValue = "ERROR";
             display.value = currentValue;
         }
         )
